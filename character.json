@@ -1,0 +1,17 @@
+{
+  "game": "edata9-doctor",
+  "v": 1,
+  "name": "부엉맨",
+  "mascot": "turtle",
+  "created": "2026-10-28",
+  "quests": {},
+  "captures": {},
+  "dex": {},
+  "summary": {
+    "xp": 0,
+    "level": 1,
+    "grade": "견습생",
+    "dex": 0,
+    "hatched": false
+  }
+}
